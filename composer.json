@@ -1,0 +1,17 @@
+{
+    "name": "gitcom-git/php-nginx-library",
+    "description": "PHP Nginx library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "GitcomGit\\NginxLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DanielEngelschalk",
+            "email": "daniel.engelschalk@gitcom.cloud"
+        }
+    ],
+    "require": {}
+}
